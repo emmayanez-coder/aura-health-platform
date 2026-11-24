@@ -1,0 +1,7 @@
+AURA avatar generated with the built-in image generation tool.
+Prompt: Friendly adult female AI health companion, dark brown hair, teal futuristic medical-style uniform, warm approachable expression, chest-up portrait, dark navy background, subtle teal halo, no text, medical credentials or NASA logos.
+
+Introduction transcript:
+Hello, I'm Aura, your AI health companion. I'm here to help you understand your readings, explore your health concerns, and support your daily wellbeing during your mission. Let's review your data together. For medical decisions or urgent concerns, contact your medical support team.
+
+Voice: Microsoft Zira Desktop, rate -1, prerecorded WAV. Portrait is static with a speaking highlight; no lip-sync or live voice conversation.

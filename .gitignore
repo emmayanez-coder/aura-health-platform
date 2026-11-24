@@ -1,0 +1,22 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+config.php
+wp-config.php
+*.pem
+*.key
+auth.json
+
+# Runtime data and local tooling
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+aura-private/
+speech-cache/
+.vscode/
+.idea/

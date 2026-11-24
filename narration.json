@@ -1,0 +1,38 @@
+{
+  "id": "aura-dizziness-training-v1",
+  "version": "1.1",
+  "approval": "Fictional workflow demonstration; not a validated medical procedure",
+  "patient": "SIM-01 — fictional crew member",
+  "steps": [
+    {
+      "id": "open",
+      "title": "Open the incident and review the report",
+      "audio": "01-open-v11.wav",
+      "text": "Medical Assist is ready. A crew member reports sudden dizziness during a scheduled activity. The incident record is open. Review the reported onset and current observations in the patient panel. Confirm this step to proceed to medical support contact."
+    },
+    {
+      "id": "contact",
+      "title": "Contact medical support",
+      "audio": "02-contact-v11.wav",
+      "text": "Request assistance from the crew medical officer through your established communication channel. Record contact attempted while awaiting a response. Select support acknowledged only after a response has been received. Confirm this step once you have recorded the communication status."
+    },
+    {
+      "id": "observe",
+      "title": "Record symptoms and observations",
+      "audio": "03-observations-v11.wav",
+      "text": "Ask the crew member to describe what they are experiencing and when it began. The current report states that dizziness began about two minutes before the incident, and the crew member is responding verbally. Record any additional observations in the step note. Leave information you cannot establish as unknown. Confirm when the observations are recorded."
+    },
+    {
+      "id": "measure",
+      "title": "Review the available measurements",
+      "audio": "04-measurements-v11.wav",
+      "text": "Review the heart rate displayed in the monitoring panel. Other vital signs have not been supplied. Use the follow-up control to review the next available sample. Record changes without assuming they establish recovery or explain the dizziness. Confirm when you have reviewed the available measurements."
+    },
+    {
+      "id": "handover",
+      "title": "Prepare the medical handover",
+      "audio": "05-handover-v11.wav",
+      "text": "Prepare the handover for medical support. Include the reported onset, symptoms, verbal responsiveness, available measurements, communication status, and actions recorded so far. Review the summary for accuracy and identify outstanding questions. Confirm this step and export the incident record for handover through your established communication channel."
+    }
+  ]
+}

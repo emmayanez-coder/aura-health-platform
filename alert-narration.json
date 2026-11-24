@@ -1,0 +1,22 @@
+{
+  "voice": "Microsoft Zira Desktop",
+  "rate": -1,
+  "steps": [
+    {
+      "audio": "sleep-v1.wav",
+      "text": "Prioritize rest. Your sleep was shorter than your target and resting heart rate is above your reference. Consider your scheduled rest routine and reassess when appropriate."
+    },
+    {
+      "audio": "mindfulness-v1.wav",
+      "text": "Consider a mindfulness session. Resting heart rate is higher and HRV lower than your reference. This does not establish stress or its cause. If you feel well, a brief mindfulness session may be helpful."
+    },
+    {
+      "audio": "activity-v1.wav",
+      "text": "Review your activity plan. Recorded activity is below your plan. Check for missing entries and follow your existing approved plan; do not increase intensity based on this alert."
+    },
+    {
+      "audio": "bone-v1.wav",
+      "text": "Bone-health countermeasure reminder. The mission model highlights the importance of bone-health countermeasures. It does not measure your bone density. Review adherence to your prescribed exercise plan."
+    }
+  ]
+}
